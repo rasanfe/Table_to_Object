@@ -1,14 +1,14 @@
 ﻿$PBExportHeader$p_build_exe.srj
-EXE:Table_to_Object.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.2.0.3356
+EXE:Table_to_Object.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 22.2.0.3397
 CMP:0,0,0,3,0,0,1
 COM:RSRSYSTEM
 DES:Table to Object
 CPY:Ramón San Félix Ramón
 PRD:Table_to_Object
-PVS:2022.3.3356.5
-PVN:2022,3,3356,5
-FVS:2022.3.3356.5
-FVN:2022,3,3356,5
+PVS:2022.3.3397.6
+PVN:2022,3,3397,6
+FVS:2022.3.3397.6
+FVN:2022,3,3397,6
 MAN:0,asInvoker,0
 PBD:table_to_object.pbl,,1
 OBJ:C:\proyecto pw2022\Blog\PowerBuilder\Table_to_Object\table_to_object.pbl,d_datatype,d

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <Solution>
-  <Projects Default="demo.pbproj">
+  <Projects Default="table_to_object.pbproj">
     <Project Path="table_to_object.pbproj"/>
     <Project Path="demo.pbproj"/>
   </Projects>

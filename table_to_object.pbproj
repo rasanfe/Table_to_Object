@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Project>
+  <Type Name="pb"/>
+  <Application Name="table_to_object"/>
+  <Libraries AppEntry="table_to_object.pbl">
+    <Library Path="table_to_object.pbl"/>
+  </Libraries>
+</Project>

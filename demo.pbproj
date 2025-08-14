@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Project>
+  <Type Name="pb"/>
+  <Application Name="demo"/>
+  <Libraries AppEntry="demo.pbl">
+    <Library Path="demo.pbl"/>
+  </Libraries>
+</Project>

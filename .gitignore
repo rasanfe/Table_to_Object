@@ -1,3 +1,10 @@
 /Setting.ini
 /table_to_object.usr.opt
-/table_to_object.xml
+
+# Regenerables de PowerBuilder (no versionar) - anadido por mantenimiento
+.pb/
+build/
+*.pbd
+*.exe
+*.usr.opt
+*_mig.log
